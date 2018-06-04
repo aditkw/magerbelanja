@@ -5,16 +5,23 @@ USER BIASA & USER PELAPAK {
   * Edit Profil
   * Setting Akun
   * Sistem Notif
+
+  # Berarti tar ada pelapak area ama user area. Pelapak itu bisa akses user area juga ga?jadi dia bisa ikutan belanja.. Jadi bedanya cuman user biasa gabisa akses pelapak area sedangkan pelapak punya otorisasi ke pelapak area.
+
 }
 USER BIASA {
   * Cari Pakaian (Punya filter pencarian berdasarkan ("merk baju", "jenis pakaian", "model pakaian", "ukuran pakaian", "warna pakaian", "harga"))
   * Keranjang Pembelian Barang
-  * Page Status Pembelian Barang ("Menunggu Pembayaran", "Menunggu Pengiriman Barang", "Konfirmasi", "Finish")
+  * Page Status Pembelian Barang ("Menunggu Pembayaran", "Menunggu Pengiriman Barang", "Konfirmasi", "Finish") -> ini anggap aja user area yak.
+
 }
 USER PELAPAK {
   * Form Input/Tambah Merk Pakaian ("Logo Merk", "Nama Merk", "Deskripsi", dll)
   * Form Input/Tambah Pakaian berdasarkan Merk Pakaian yang ia punya ("Jenis Pakaian", "Warna Pakaian", "Ukuran", "Stok", dll)
   * Page CRUD eh CMS untuk merk-nya (Seolah-olah single page khusus untuk 1 merk pakaiannya)
   * Halaman Profil Merk-nya (Berisi Foto2 Logo, Deskripsi, dan model-model baju)
+}
+ADMIN{
+  *
 }
 tes
