@@ -17,4 +17,3 @@ USER PELAPAK {
   * Page CRUD eh CMS untuk merk-nya (Seolah-olah single page khusus untuk 1 merk pakaiannya)
   * Halaman Profil Merk-nya (Berisi Foto2 Logo, Deskripsi, dan model-model baju)
 }
-tes
