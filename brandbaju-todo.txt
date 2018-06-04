@@ -22,6 +22,10 @@ USER PELAPAK {
   * Halaman Profil Merk-nya (Berisi Foto2 Logo, Deskripsi, dan model-model baju)
 }
 ADMIN{
-  *
+  # Ngaktifin akun pelapak yang baru register.
+  # Bisa blokir user/pelapak.
+  # Bisa hapus user/pelapak.
+  # Mantau transaksi.
+  # Terima laporan keluhan.
 }
 tes
